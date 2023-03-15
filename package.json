@@ -44,5 +44,8 @@
       "json",
       "node"
     ]
-  }
+  },
+  "reactNativePermissionsIOS": [
+    "Camera"
+  ]
 }
